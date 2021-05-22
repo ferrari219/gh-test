@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ferrari219/gh-test.git/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/ferrari219/gh-test.git/static/js/main.66d62f1e.chunk.js",
+    "main.js.map": "/ferrari219/gh-test.git/static/js/main.66d62f1e.chunk.js.map",
+    "runtime-main.js": "/ferrari219/gh-test.git/static/js/runtime-main.57841c6b.js",
+    "runtime-main.js.map": "/ferrari219/gh-test.git/static/js/runtime-main.57841c6b.js.map",
+    "static/js/2.10b0fa74.chunk.js": "/ferrari219/gh-test.git/static/js/2.10b0fa74.chunk.js",
+    "static/js/2.10b0fa74.chunk.js.map": "/ferrari219/gh-test.git/static/js/2.10b0fa74.chunk.js.map",
+    "static/js/3.f3235bb8.chunk.js": "/ferrari219/gh-test.git/static/js/3.f3235bb8.chunk.js",
+    "static/js/3.f3235bb8.chunk.js.map": "/ferrari219/gh-test.git/static/js/3.f3235bb8.chunk.js.map",
+    "index.html": "/ferrari219/gh-test.git/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/ferrari219/gh-test.git/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.10b0fa74.chunk.js.LICENSE.txt": "/ferrari219/gh-test.git/static/js/2.10b0fa74.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/ferrari219/gh-test.git/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.57841c6b.js",
+    "static/js/2.10b0fa74.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.66d62f1e.chunk.js"
+  ]
+}
